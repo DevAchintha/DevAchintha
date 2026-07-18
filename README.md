@@ -1,16 +1,16 @@
 <div align="center">
 
 <img
-  height="220"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Professional Coding GIF"
+  height="240"
+  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+  alt="Developer Coding Animation"
 />
 
 # Hi 👋 I'm Achintha Sathsara
 
-### Computer Science Undergraduate | Aspiring AI Software Engineer | Full-Stack Developer
+### Aspiring AI Software Engineer | Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ADFF2F&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Aspiring+AI+Software+Engineer;Full-Stack+Developer;Open+Source+Learner;Building+Scalable+and+Intelligent+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ADFF2F&center=true&vCenter=true&width=850&lines=Aspiring+AI+Software+Engineer;Full-Stack+Developer;Open+Source+Learner;Building+Scalable+and+Intelligent+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -107,47 +107,79 @@ Currently, I'm strengthening my software engineering fundamentals while learning
 
 ## 🌐 Connect With Me
 
+<table>
+  <tr>
+    <td align="center" width="200">
+
 <a href="https://github.com/DevAchintha" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-    width="36"
-    height="36"
+    width="42"
+    height="42"
     alt="GitHub"
   />
 </a>
 
-&nbsp;&nbsp;
+<br>
+
+<strong>GitHub</strong>
+
+</td>
+
+<td align="center" width="200">
 
 <a href="https://www.linkedin.com/in/achintha-sathsara-4b6372340/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-    width="36"
-    height="36"
+    width="42"
+    height="42"
     alt="LinkedIn"
   />
 </a>
 
-&nbsp;&nbsp;
+<br>
+
+<strong>LinkedIn</strong>
+
+</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="200">
 
 <a href="https://www.facebook.com/share/1HNYat2oZD/?mibextid=wwXIfr" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-    width="36"
-    height="36"
+    width="42"
+    height="42"
     alt="Facebook"
   />
 </a>
 
-&nbsp;&nbsp;
+<br>
+
+<strong>Facebook</strong>
+
+</td>
+
+<td align="center" width="200">
 
 <a href="mailto:achintha7883@gmail.com">
   <img
     src="https://img.icons8.com/color/48/gmail-new.png"
-    width="36"
-    height="36"
+    width="42"
+    height="42"
     alt="Email"
   />
 </a>
+
+<br>
+
+<strong>Email</strong>
+
+</td>
+  </tr>
+</table>
 
 </div>
 
@@ -157,20 +189,38 @@ Currently, I'm strengthening my software engineering fundamentals while learning
 
 ## 📊 GitHub Statistics
 
+<table>
+  <tr>
+    <td align="center">
+
 <img
   src="https://komarev.com/ghpvc/?username=DevAchintha&label=Profile%20Views&style=for-the-badge"
   alt="Profile Views"
 />
+
+</td>
+
+<td align="center">
 
 <img
   src="https://img.shields.io/github/followers/DevAchintha?label=Followers&style=for-the-badge"
   alt="GitHub Followers"
 />
 
+</td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+
 <img
   src="https://img.shields.io/github/stars/DevAchintha?affiliations=OWNER&style=for-the-badge&label=Total%20Stars"
   alt="GitHub Stars"
 />
+
+</td>
+  </tr>
+</table>
 
 </div>
 
@@ -194,30 +244,65 @@ Currently, I'm strengthening my software engineering fundamentals while learning
 
 ## 💻 Languages Used in My Projects
 
+<table>
+  <tr>
+    <td align="center">
+
 <img
   src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
   alt="TypeScript"
 />
+
+</td>
+
+<td align="center">
 
 <img
   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
   alt="JavaScript"
 />
 
+</td>
+
+<td align="center">
+
 <img
   src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
   alt="Python"
 />
+
+</td>
+  </tr>
+
+  <tr>
+    <td align="center">
 
 <img
   src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
   alt="Java"
 />
 
+</td>
+
+<td align="center">
+
 <img
   src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
   alt="C++"
 />
+
+</td>
+
+<td align="center">
+
+<img
+  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  alt="HTML5"
+/>
+
+</td>
+  </tr>
+</table>
 
 </div>
 
@@ -241,11 +326,64 @@ Currently, I'm strengthening my software engineering fundamentals while learning
 
 <div align="center">
 
-### 💡 Developer Quote
+## 🎯 Current Focus
+
+<table>
+  <tr>
+    <td align="center" width="250">
+
+### 🤖 Artificial Intelligence
+
+Learning AI, Machine Learning and building intelligent applications.
+
+</td>
+
+<td align="center" width="250">
+
+### 🌐 Full-Stack Development
+
+Building modern web applications using React, Node.js and databases.
+
+</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="250">
+
+### 📚 Data Structures
+
+Improving problem-solving skills with Java and programming fundamentals.
+
+</td>
+
+<td align="center" width="250">
+
+### 🚀 Open Source
+
+Learning Git, GitHub and contributing to collaborative software projects.
+
+</td>
+  </tr>
+</table>
+
+<br>
 
 <img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"
-  alt="Developer Quote"
+  src="https://img.shields.io/badge/Currently%20Learning-AI%20%26%20Machine%20Learning-ADFF2F?style=for-the-badge"
+  alt="Currently Learning AI and Machine Learning"
 />
+
+<img
+  src="https://img.shields.io/badge/Building-Full--Stack%20Applications-00BFFF?style=for-the-badge"
+  alt="Building Full Stack Applications"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ Code. Learn. Build. Repeat.
 
 </div>

@@ -34,9 +34,9 @@ Currently, I'm strengthening my software engineering fundamentals while learning
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MalshanDev&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=DevAchintha&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/MalshanDev?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/DevAchintha?style=for-the-badge"/>
 
 </p>
 
@@ -44,10 +44,10 @@ Currently, I'm strengthening my software engineering fundamentals while learning
   <tr>
     <td>
 
-  ![](https://github-readme-stats.shion.dev/api?username=MalshanDev&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.shion.dev/api?username=DevAchintha&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
     </td>
     <td>
-   ![](https://streak-stats.demolab.com/?user=MalshanDev&theme=merko&hide_border=false)   
+   ![](https://streak-stats.demolab.com/?user=DevAchintha&theme=merko&hide_border=false)   
      
   </td>
  
@@ -60,7 +60,7 @@ Currently, I'm strengthening my software engineering fundamentals while learning
   <tr>
     <td>
 <a href="https://github.com/MalshanDev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalshanDev&theme=github-compact&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAchintha&theme=github-compact&hide_border=true&bg_color=0d1117" />
 </a>
       
   </td>

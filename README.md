@@ -442,6 +442,6 @@ Learning Git, GitHub and contributing to collaborative software projects.
 
 <div align="center">
 
-### ⚡ Code. Learn. Build. Repeat.
+###⚡ Code. Learn. Build. Repeat.
 
 </div>
